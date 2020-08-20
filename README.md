@@ -1,4 +1,4 @@
-# 605 Recitation - week 1 
+# CSCI-605 Recitation - week 1 
 
 Here you will find a couple of code snippets as well
 as some notes that are somehow related to the first
