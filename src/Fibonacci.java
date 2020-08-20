@@ -6,6 +6,8 @@
  *  * - check with students if the code follows RIT-CS standards
  *  * - show the IDE debugging tool to show the recursion stack
  *  * - show the variable values in debugging mode breakpoints
+ *  * - please also check file Fibonacci.md for some examples on
+ *      the recursive calls
  */
 public class Fibonacci {
 

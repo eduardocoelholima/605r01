@@ -1,12 +1,20 @@
+##Learning objectives:
+- show the calculation of fibonnaci numbers,
+  step by step 
 
 In homework 1.2, one of the ways to solve
-involves the use of recursion. So lets observe a typical
-example of recursive computation.
+involves the use of recursion. So let's observe a
+typical example of a recursive problem computation,
+step by step.
 
 Recursion Example: Fibonacci
 
-For debugging purposes, it might be helpful to observe
-the order of method calls, e.g.: 
+A fibonacci of a positive number can be calculated
+as the sum of the two previous fibonaccis, given that
+fib( 0 ) = 0 and fib( 1 ) = 1.
+
+Specially for debugging purposes, it might be helpful
+to observe the order of method calls, e.g.: 
 
 fib(2)
 = fib(1) + fib(0) 

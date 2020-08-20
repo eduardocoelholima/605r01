@@ -22,5 +22,4 @@ every student can benefit from the answers provided.
 
 
 Cheers,
-Eduardo Lima
 eduardo.lima at mail.rit.edu
