@@ -1,20 +1,26 @@
+# 605 Recitation - week 1 
+
+Here you will find a couple of code snippets as well
+as some notes that are somehow related to the first
+homework of RIT course CSCI605. 
+
+Follow this order:
+- Number.java
+- Factorial.java
+- Fibonacci.java
+- Fibonacci.md
+- NumberProperties.java
+
+In each of these files, you will find a header with a
+few learning objectives.
+
+Please let me know if you have any questions. You can
+always use MyCourses discussion forum (good idea) or
+email me or Professor Bischof. I will reply the questions
+either to the discussion forum or will email everyone so
+every student can benefit from the answers provided.
 
 
-Recursion Example: Fibonacci
-
-fib(3)
-= fib(2) + fib(1)
-= ( fib(1) + fib(0) ) + fib(1)
-= ( 1 + fib(0) ) + fib(1)
-= ( 1 + 0 ) + fib(1)
-= ( 1 ) + fib(1)
-= ( 1 ) + ( 1 )
-= ( 2 )
-
-fib(9)
-= fib (8) + fib (7)
-= ( fib (7) + fib (6) ) + fib (7)
-= ( ( fib(6) + fib(5) ) + fib (6) ) + fib (7)
-= ( ( ( fib(5) + fib(4) ) + fib(5) ) + fib (6) ) + fib (7)
-= ( ( ( ( fib(4) + fib(3) )) + fib(4) ) + fib(5) ) + fib (6) ) + fib (7)
-....
+Cheers,
+Eduardo Lima
+eduardo.lima at mail.rit.edu
